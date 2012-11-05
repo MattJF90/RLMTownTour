@@ -1,0 +1,9 @@
+name: RLMTownTour
+main: com.rlminecraft.RLMTownTour.RLMTownTour
+version: 1.0
+author: Matt_Fielding
+depend: [Towny]
+
+commands:
+  tour:
+    description: Allows any non-resident to tour the existing towns for free.
